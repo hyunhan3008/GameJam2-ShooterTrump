@@ -1,2 +1,3 @@
 # GameJam2
-The second game jam
+The second game jame
+Run the "trumgame.exe" please
